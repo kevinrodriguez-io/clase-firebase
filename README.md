@@ -1,0 +1,1 @@
+Cambiar informacion en lib/firebase/initFirebase.js
